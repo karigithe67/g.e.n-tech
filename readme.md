@@ -1,5 +1,6 @@
-# {G.E.N Innovation Technologies}
-#### {G.E.N Innovation Technologies is a website for hospitals which treat toxic diseases, But with the new upgrade in technology we find that at-least we are able to treat them by using the enhanced equipments.}, {August 13th 2019}
+# G.E.N Innovation Technologies
+#### G.E.N Innovation Technologies is a website for hospitals which treat toxic diseases, But with the new upgrade in technology we find that at-least we are able to treat them by using the enhanced equipments.
+## August 13th 2019
 #### By **{JEFF K KARIGITHE}**
 ## Description
 {The reason as to why we gave our application the name G.E.N Technologies is because G.E.N is deprived from the word Genesis which means the origin or mode of formation of something and to G.E.N Technology we will always have a solution to each medical emergency.}
